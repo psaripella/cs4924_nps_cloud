@@ -1,4 +1,4 @@
-# cloud
+# Docker image creation on your Macbook
 
 Here the files uploaded so far:
 The powerpoint/.pdf of the presentation on 2/28: cs4924_nps guest lecture cloud computing.pdf
