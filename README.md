@@ -11,7 +11,7 @@ Here the files uploaded so far:
 
 Refer to this youtube video, for a demo on how the following runs: https://www.youtube.com/watch?v=NmUdaJOu5L4 
 
-To run this: 
+## Create an image and run
 
 1) Verify that you have docker desktop running on your mac Termainal:
 
@@ -20,21 +20,22 @@ To run this:
         
 2) create the docker image:
 
-    docker build -t "mywebserverusingdocker:latest" .
+    *docker build -t "mywebserverusingdocker:latest"*
     
 3) Run the container (the client connects on port 7001, on the container web server which is on port 7000)
 
-    docker run -p 7001:7000 mydocker:nodeCode
+    *docker run -p 7001:7000 mydocker:nodeCode*
     
 4) Connect to the container on your favorite browser (Chrome/FireFox etc.):
-    http://localhost:7001
+ 
+  [link your browser !]   http://localhost:7001
  
 5) Start up another container on another Terminal window :
 
-   docker run -p 7002:7000 mydocker:nodeCode
+   *docker run -p 7002:7000 mydocker:nodeCode*
  
 6)   Connect to this new container on your favorite browser on the new port:
 
-    http://localhost:7002
+  [link your browser !]  http://localhost:7002
     
    
