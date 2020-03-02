@@ -1,6 +1,6 @@
 # Docker image creation on your Macbook
 
-Here the files uploaded so far:
+## Files in this directory
 
 1) cs4924_nps guest lecture cloud computing.pdf: The powerpoint/.pdf of the presentation on 2/28
 
@@ -28,7 +28,7 @@ Refer to this youtube video, for a demo on how the following runs: https://www.y
     
 4) Connect to the container on your favorite browser (Chrome/FireFox etc.):
  
-  [link your browser !]   http://localhost:7001
+     http://localhost:7001
  
 5) Start up another container on another Terminal window :
 
@@ -36,6 +36,6 @@ Refer to this youtube video, for a demo on how the following runs: https://www.y
  
 6)   Connect to this new container on your favorite browser on the new port:
 
-  [link your browser !]  http://localhost:7002
+    http://localhost:7002
     
    
