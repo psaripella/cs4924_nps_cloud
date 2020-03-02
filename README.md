@@ -36,6 +36,6 @@ Refer to this youtube video, for a demo on how the following runs: https://www.y
  
 6)   Connect to this new container on your favorite browser on the new port:
 
-    http://localhost:7002
+     http://localhost:7002
     
    
