@@ -1,9 +1,13 @@
 # Docker image creation on your Macbook
 
 Here the files uploaded so far:
+
 The powerpoint/.pdf of the presentation on 2/28: cs4924_nps guest lecture cloud computing.pdf
+
 Dockerfile : This is the "Dockerfile" needed to create the docker image
+
 index.js : This file is copied into the image and creates the web server when the container is running
+
 
 Refer to this youtube video, for a demo on how the following runs: https://www.youtube.com/watch?v=NmUdaJOu5L4 
 To run this: 
